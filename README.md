@@ -41,7 +41,7 @@ ssIP_vEM_v3 - Simple single Image Processing for volume electron microscopy imag
     - 2x2 binning for size reduction
 
 
-stackIP_vEM - Stack Image Processing for volume Electron microscopy
+stackIP_vEM_v8 - Stack Image Processing for volume Electron microscopy
 
     This macro performs various image processing operations on stack image :
     - slice clearing
